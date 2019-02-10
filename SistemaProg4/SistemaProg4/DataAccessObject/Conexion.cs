@@ -11,6 +11,7 @@ namespace SistemaProg4
 {
     public abstract class Conexion
     {
+        // ewsdfwedwed
         private readonly string cadenaConexion;
         public Conexion()
         {
